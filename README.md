@@ -1,7 +1,7 @@
 # Data Science For Good: DonorsChoose.org
 ## Help DonorsChoose.org connect donors with projects they care about
 
-DonorsChoose.org is an organization that helps teachers fundraise for American classrooms. The organization has funded over 1.1 million classroom requests through the support of 3 million donors, the majority of whom were making their first-ever donation to a public school. If DonorsChoose.org can motivate even a fraction of those donors to make another donation, that could have a huge impact on the number of classroom requests fulfilled.  The goal of the project is to enable DonorsChoose.org to build targeted email campaigns, recommending specific classroom requests to prior donors. 
+DonorsChoose.org is an organization that helps teachers fundraise for American classrooms. The organization has funded over 1.1 million classroom requests through the support of 3 million donors, the majority of whom were making their first-ever donation to a public school. If DonorsChoose.org can motivate even a fraction of those donors to make another donation, that could have a huge impact on the number of classroom requests fulfilled.  The goal of the project is to enable DonorsChoose.org to build targeted email campaigns in order to recommend specific classroom requests to prior donors. 
 
 The organization has supplied anonymized [data](https://www.kaggle.com/donorschoose/io) on donor giving from the past five years, starting from January 2013 to May 1, 2018.  Six data files are provided with the following dimensions:
 * donations (4687884, 10)
