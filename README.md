@@ -30,6 +30,6 @@ Below are the version of the Python packages utilized:
 * matplotlib 2.1.2
 * plotly 2.7.0
 
-To follow the notebooks, please save the six data files to a directory named "data". The notebooks need to be run in sequence. [Google Maps Platform](https://cloud.google.com/maps-platform/) is utilized to obtain geocoding data.  A valid API key would be required to make the API requests.  To view the Plotly charts on Part 2, please download [DonorsChoose- Part 2. Exploratory Analysis.html](https://github.com/kikimeow/DonorsChoose-Recommender-System/blob/master/DonorsChoose-%20Part%202.%20Exploratory%20Analysis.html)  
+To follow the notebooks, please save the six data files to a directory named "data". The notebooks need to be run in sequence. [Google Maps Platform](https://cloud.google.com/maps-platform/) is utilized to obtain geocoding data.  A valid API key would be required to make the API requests.  To view Part 2. Exploratory Analysis properly with the charts produced using Plotly, please see this [link](https://nbviewer.jupyter.org/github/kikimeow/DonorsChoose-Recommender-System/blob/master/DonorsChoose-%20Part%202.%20Exploratory%20Analysis.ipynb). JavaSript-based browser plotting libraries cannot function in pages rendered directly by GitHub.  
 
 
