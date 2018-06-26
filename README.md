@@ -15,11 +15,11 @@ To solve the problem, three Jupyter Notebooks are created.   Part 1 of the noteb
 
 The recommendation algorithm is based on a combination of Filtering and Ranking.  
 
-In Part 1 of the notebooks, features are generated to capture the characteristics regarding the donors, the schools, as well as the projects. The features related to donors are normalized to reflect an donor's interest relative to the rest of the donors. The project features are one-hot encoded. A major feature that proved to be very useful is geographic location of the donor and the schools. A main component of the reommendation algorithm is Geo Search, where possible recommendations are filtered and sorted by distance or around certain geo-locations.
+In [Part 1](https://nbviewer.jupyter.org/github/kikimeow/DonorsChoose-Recommender-System/blob/master/DonorsChoose-%20Part%201.%20Preprocessing%20%26%20Feature%20Engineering.ipynb) of the notebooks, features are generated to capture the characteristics regarding the donors, the schools, as well as the projects. The features related to donors are normalized to reflect an donor's interest relative to the rest of the donors. The project features are one-hot encoded. A major feature that proved to be very useful is geographic location of the donor and the schools. A main component of the reommendation algorithm is Geo Search, where possible recommendations are filtered and sorted by distance or around certain geo-locations.
 
-Part 2 of the notebooks focuses on exploring the dataset to understand the behavior of the donors, where the donations are coming from, and finally, to gain insights into building an effective recommender system, 
+[Part 2](https://github.com/kikimeow/DonorsChoose-Recommender-System/blob/master/DonorsChoose-%20Part%202.%20Exploratory%20Analysis.ipynb) of the notebooks focuses on exploring the dataset to understand the behavior of the donors, where the donations are coming from, and finally, to gain insights into building an effective recommender system, 
 
-Part 3 of the notebooks explains the intuition behind the e-mail recommendation system, why the donor's behaviors support this approach, and the performance of the recommender algorithm.
+[Part 3](https://nbviewer.jupyter.org/github/kikimeow/DonorsChoose-Recommender-System/blob/master/DonorsChoose-%20Part%203.%20Ranking%20Algorithm%20Reasoning%20%26%20Methods.ipynb) of the notebooks explains the intuition behind the e-mail recommendation system, why the donor's behaviors support this approach, and the performance of the recommender algorithm.
 
 Below are the version of the Python packages utilized:
 * numpy 1.14.0
